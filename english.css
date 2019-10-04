@@ -1,0 +1,8 @@
+body {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPwAAACOCAMAAAAin5WfAAAAA1BMVEWt2eZvScryAAAAOklEQVR4nO3BMQEAAADCoPVPbQhfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAzwCMVgAB9VuCtgAAAABJRU5ErkJggg==");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100%;
+  width: 100%;
+  repeat: no-repeat;
+}
